@@ -1,0 +1,2 @@
+* Configure being able to send data to different TSDBs.
+* Allow reading data directly from the input device, rather than going through the intermediate step of recording the noise to WAV first.
