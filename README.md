@@ -16,8 +16,10 @@ These scripts aren't especially complex, but they don't need to be. To use them,
 
 To install `jupiter-grapher`, run:
 
-```go get github.com/ctdk/radio-astronomy/jupiter-grapher
-go install github.com/ctdk/radio-astronomy/jupiter-grapher```
+```
+go get github.com/ctdk/radio-astronomy/jupiter-grapher
+go install github.com/ctdk/radio-astronomy/jupiter-grapher
+```
 
 ----------
 
